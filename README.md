@@ -1,6 +1,6 @@
 # Thinkful Protractor
 
-## Installation
+## Installation----
 
 1. Install `npm` and `gulp` globally.
 2. Clone the repo and hop into the directory.
